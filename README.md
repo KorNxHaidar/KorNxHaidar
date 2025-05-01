@@ -1,5 +1,7 @@
 ### Hi there 👋 Nice to meet You guys
 
+![Sirichupong Champasak GitHub stats](https://github-readme-stats.vercel.app/api?username=KorNxHaidar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KorNxHaidar&layout=compact&theme=radical)
 <!--
 **KorNxHaidar/KorNxHaidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
